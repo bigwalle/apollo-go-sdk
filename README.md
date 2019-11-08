@@ -15,7 +15,7 @@ Installation
 ``` shell
 go get -u github.com/cihub/seelog
 go get -u github.com/coocood/freecache
-go get -u git.xchanger.cn/ecarx-go/apollosdk
+go get -u github.com/welcome112s/apollosdk
 ```
 
 
