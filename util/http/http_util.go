@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/welcome112s/apollosdk/util"
+	"github.com/welcome112s/apollo-go-sdk/util"
 	"io/ioutil"
 	"net/http"
 )

@@ -2,7 +2,7 @@ package apollosdk
 
 import (
 	"testing"
-	"github.com/welcome112s/apollosdk/core"
+	"github.com/welcome112s/apollo-go-sdk/core"
 	"fmt"
 )
 

@@ -3,9 +3,9 @@ package core
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/welcome112s/apollosdk/util"
-	"github.com/welcome112s/apollosdk/util/http"
-	"github.com/welcome112s/apollosdk/util/schedule"
+	"github.com/welcome112s/apollo-go-sdk/util"
+	"github.com/welcome112s/apollo-go-sdk/util/http"
+	"github.com/welcome112s/apollo-go-sdk/util/schedule"
 	"net/url"
 	"strings"
 	"sync"

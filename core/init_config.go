@@ -2,7 +2,7 @@ package core
 
 import (
 	"encoding/json"
-	"github.com/welcome112s/apollosdk/util"
+	"github.com/welcome112s/apollo-go-sdk/util"
 	"io/ioutil"
 	"os"
 	"time"

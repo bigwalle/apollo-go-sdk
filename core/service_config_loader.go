@@ -2,8 +2,8 @@ package core
 
 import (
 	"encoding/json"
-	"github.com/welcome112s/apollosdk/util"
-	"github.com/welcome112s/apollosdk/util/http"
+	"github.com/welcome112s/apollo-go-sdk/util"
+	"github.com/welcome112s/apollo-go-sdk/util/http"
 	"net/url"
 	"strings"
 	"sync"

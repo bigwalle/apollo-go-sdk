@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/welcome112s/apollosdk"
-	"github.com/welcome112s/apollosdk/core"
+	"github.com/welcome112s/apollo-go-sdk"
+	"github.com/welcome112s/apollo-go-sdk/core"
 )
 
 func main() {
@@ -32,6 +32,12 @@ func main() {
 	//block Test
 	chan1 :=make(chan int)
 	<-chan1
+
+
+
+
+
+
 }
 
 

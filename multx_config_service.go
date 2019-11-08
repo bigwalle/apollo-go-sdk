@@ -1,8 +1,8 @@
 package apollosdk
 
 import (
-	"github.com/welcome112s/apollosdk/core"
-	"github.com/welcome112s/apollosdk/util"
+	"github.com/welcome112s/apollo-go-sdk/core"
+	"github.com/welcome112s/apollo-go-sdk/util"
 	"sync"
 )
 

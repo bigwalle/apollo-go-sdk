@@ -15,7 +15,7 @@ Installation
 ``` shell
 go get -u github.com/cihub/seelog
 go get -u github.com/coocood/freecache
-go get -u github.com/welcome112s/apollosdk
+go get -u github.com/welcome112s/apollo-go-sdk
 ```
 
 
@@ -122,4 +122,20 @@ configNew.AddChangeListener(s)
 
 //移除监听器
 configNew.RemoveChangeListener(s)
+```
+# 多appId获取
+```buildoutcfg
+ appsdk1:= apollosdk.NewApolloSdk(core.CConfig{
+    AppId:       "app1",
+    Cluster:     "",
+    MmetaServer: "",
+    DataCenter:  "",
+  })
+
+ appsdk2:=apollosdk.NewApolloSdk(core.CConfig{
+   AppId:       "app2",
+   Cluster:     "",
+   MmetaServer: "",
+   DataCenter:  "",
+ })
 ```

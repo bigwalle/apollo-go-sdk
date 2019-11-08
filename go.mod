@@ -1,4 +1,4 @@
-module github.com/welcome112s/apollosdk
+module github.com/welcome112s/apollo-go-sdk
 
 go 1.13
 
